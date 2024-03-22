@@ -2,6 +2,10 @@
 
 ## How to use?
 You need to install node.js & npm, and have some basic knowledge about how to create a discord bot as i will not be giving a tutorial on creating a discord application.
+After installing node.js and npm, use the following command:
+```
+npm install discord.js
+```
 And, that is it. You need to put your bot token in your config file, and the bot is ready to run. Remember to add it to your server, you silly.
 
 ## What are the bot functions?
