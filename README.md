@@ -15,3 +15,5 @@ Everything in the code is explained, so it is for newbies in this topic. Lower d
 ### Example:
 
 ![image](https://github.com/MagicznyJasiek/discordbot/assets/61098959/d59be679-3519-4ab2-b113-f3a88d7b514d)
+
+# If this helped, please give a github star.
